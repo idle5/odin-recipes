@@ -1,1 +1,3 @@
-# odin-recipes
+This project will be a website containing a simple list of random recipes found online. In its early stages, it will be built solely with HTML learned over at <a href="https://www.theodinproject.com/paths/foundations/courses/foundations">The Odin Project - Foundations</a> course. In a few days, I will be taking the lessons on CSS from The Odin Project, and the website will be polished.
+
+When the project is complete, a description of skills demonstrated and elements utilized will be summarized here to show what I learned during its creation. Thanks for reading and I hope you enjoy my first project! 
